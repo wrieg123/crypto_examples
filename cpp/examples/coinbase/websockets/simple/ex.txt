@@ -1,0 +1,2 @@
+g++ -I ../../../../dependency sync_client.cc -o sync_client -lstdc++ -lssl -lcrypto -lpthread
+
